@@ -1,8 +1,8 @@
 {
-  "name": "Name",
-  "client": "client",
-  "clients": "clients",
-  "team": "team",
-  "teams": "teams",
-  "open": "Open"
+    "name": "Name",
+    "client": "client",
+    "clients": "clients",
+    "team": "team",
+    "teams": "teams",
+    "open": "Open"
 }
