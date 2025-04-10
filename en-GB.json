@@ -5,5 +5,8 @@
     "team": "team",
     "teams": "teams",
     "open": "Open",
-    "title": "title"
+    "title": "title",
+    "role": "",
+    "general.title": "",
+    "general.name": "General name"
 }
